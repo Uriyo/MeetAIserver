@@ -37,7 +37,7 @@ BOT_SERVICE_URL=<your_bot_service_url>
 
 Start the server:
 ```sh
-npm start
+node server.js
 ```
 The server will run on `http://localhost:3001` by default.
 
